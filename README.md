@@ -2,7 +2,7 @@ To use plugins, please clone repositories into .vim/bundle/
 
 ## For example:
 
-  `cd .vim/bundle
+  cd .vim/bundle
  
   git clone https://github.com/ycm-core/YouCompleteMe.git && cd YouCompleteMe && git checkout 00874fabb8998c56dceea6d2c447f30b06e79496 && cd ..
   
@@ -14,4 +14,4 @@ To use plugins, please clone repositories into .vim/bundle/
   
   git clone https://github.com/jistr/vim-nerdtree-tabs.git
   
-  git clone https://github.com/Vimjas/vim-python-pep8-indent.git`
+  git clone https://github.com/Vimjas/vim-python-pep8-indent.git
