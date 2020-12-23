@@ -4,7 +4,7 @@ To use plugins, please clone repositories into .vim/bundle/
 
   cd .vim/bundle
  
-  git clone https://github.com/ycm-core/YouCompleteMe.git && cd YouCompleteMe && git checkout 00874fabb8998c56dceea6d2c447f30b06e79496 && cd ..
+  git clone https://github.com/ycm-core/YouCompleteMe.git && cd YouCompleteMe && git checkout 00874fabb8998c56dceea6d2c447f30b06e79496 && git submodule update --init --recursive && cd ..
   
   git clone https://github.com/preservim/nerdtree.git
   
