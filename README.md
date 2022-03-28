@@ -15,3 +15,5 @@ To use plugins, please clone repositories into .vim/bundle/
   git clone https://github.com/jistr/vim-nerdtree-tabs.git
   
   git clone https://github.com/Vimjas/vim-python-pep8-indent.git
+
+After clone all repos, `cd ~/.vim/bundle/YouCompleteMe`, run `python install.py` to build YouCompleteMe (use python2).
