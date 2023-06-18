@@ -1,3 +1,4 @@
+Copy .vim, .vimrc in this repository into $HOME directory.
 To use plugins, please clone repositories into .vim/bundle/
 
 ## For example:
@@ -16,4 +17,4 @@ To use plugins, please clone repositories into .vim/bundle/
   
   git clone https://github.com/Vimjas/vim-python-pep8-indent.git
 
-After clone all repos, `cd ~/.vim/bundle/YouCompleteMe`, run `python install.py` to build YouCompleteMe (use python2).
+After clone all repos, `cd ~/.vim/bundle/YouCompleteMe`, run `python install.py` to build YouCompleteMe (use python2 or python3 of system).
